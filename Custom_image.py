@@ -1,4 +1,6 @@
 
+import cat_detector
+
 my_image = "my_image.jpg"   # change this to the name of your image file 
 # We preprocess the image to fit your algorithm.
 fname = "images/" + my_image
